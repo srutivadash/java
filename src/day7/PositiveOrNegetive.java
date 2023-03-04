@@ -11,8 +11,9 @@ public class PositiveOrNegetive {
 		else
 		{
 			System.out.println("Negetive number");
+		
 		}
-
+System.out.println("good morning");
 	}
 
 }
